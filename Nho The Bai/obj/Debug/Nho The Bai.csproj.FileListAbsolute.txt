@@ -1,0 +1,15 @@
+D:\C#\Project\Nho The Bai\Nho The Bai\bin\Debug\Nho The Bai.exe.config
+D:\C#\Project\Nho The Bai\Nho The Bai\bin\Debug\Nho The Bai.exe
+D:\C#\Project\Nho The Bai\Nho The Bai\bin\Debug\Nho The Bai.pdb
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho_The_Bai.Form1.resources
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho_The_Bai.Properties.Resources.resources
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.csproj.GenerateResource.cache
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.exe
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.pdb
+D:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.csprojAssemblyReference.cache
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.csproj.AssemblyReference.cache
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.csproj.SuggestedBindingRedirects.cache
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho_The_Bai.Properties.Resources.resources
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.csproj.GenerateResource.cache
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.exe
+E:\C#\Project\Nho The Bai\Nho The Bai\obj\Debug\Nho The Bai.pdb
